@@ -1,4 +1,4 @@
-# TTIC FAQ Service
+# FAQ-ICT Service
 
 ## Technologies:
 
